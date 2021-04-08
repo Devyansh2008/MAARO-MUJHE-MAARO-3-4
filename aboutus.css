@@ -1,0 +1,15 @@
+h1{color:black;font-family:F;font-size: 300%}
+.a{display:flex;justify-content: center;}
+body{background:deepskyblue}
+.b{display: flex;justify-content: center;color:black;font-family:F;font-size: 200%}
+.c{display: flex;justify-content: center;color:black;font-family:F;font-size: 200%}
+.d{display: flex;justify-content: center;}
+.e{display: flex;justify-content: center;}
+html,body{background-image:linear-gradient(to left,black,purple,aqua)}
+h1:hover{border:20px inset #1520a6 ;}
+img:hover{transform:rotateY(180deg);transition: 2s;opacity:.5;}
+
+@font-face {
+    font-family: F;
+    src: url(/SnesItalic-1G9Be.ttf);
+}
